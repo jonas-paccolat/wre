@@ -1,0 +1,1 @@
+The project is organized in two parts. The first part is carried out in the Matlab notebook *main.mlx* and the second part in the Python notebook *main.ipynb*. All input and generated data are stored in the directory *data*.
